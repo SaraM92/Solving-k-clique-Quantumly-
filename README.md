@@ -17,3 +17,5 @@ We addressed the problem using [Grover's algorithm](https://www.quantiki.org/wik
 
 
 In order to run the code correctly, you will need to have installed a working version of [Qiskit](https://qiskit.org/).
+
+For questions and comments contact sara.jr@keio.jp.
